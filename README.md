@@ -84,4 +84,5 @@ If you'd like to contribute or have suggestions, please open an issue or submit 
 
 ## License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the [MIT License](C:\Users\egbej\OneDrive\Documents\EduTech_Calculator\MIT-License.txt).
+.
