@@ -59,24 +59,28 @@ TheCalc is a versatile GUI application built using the guizero library in Python
     pip install guizero
 
 
-### **Run the application:**
+Run the application:
+
     ```bash
     python app.py
 
-#### Install dependencies:
+
+Install dependencies:
 
 ```bash
 pip install guizero
 
-##### Run the application:
+
+Run the application:
 
 ```bash
-    python app.py
+python app.py
 
-###### Contributing
+Contributing
 
 If you'd like to contribute or have suggestions, please open an issue or submit a pull request.
 
-### License
-    This project is licensed under the **MIT License**.
+License
+
+This project is licensed under the **MIT License**.
 
