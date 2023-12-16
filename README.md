@@ -39,6 +39,7 @@ TheCalc is a versatile GUI application built using the guizero library in Python
    - Enter the temperature value in the input field.
    - Use the "Convert" button to switch between Fahrenheit and Celsius.
 
+
 ## Dependencies
 
 - Python 3.x
@@ -48,17 +49,18 @@ TheCalc is a versatile GUI application built using the guizero library in Python
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/yourusername/omnicalc.git
+   ```
+   git clone https://github.com/EbiScott/TheCalc.git
 
-   cd omnicalc
+   cd TheCalc
 
 ## Install dependencies:
 
-    ```bash
+    ```
     pip install guizero
 
 
+<<<<<<< HEAD
 Run the application:
 
     ```bash
@@ -83,4 +85,16 @@ If you'd like to contribute or have suggestions, please open an issue or submit 
 License
 
 This project is licensed under the **MIT License**.
+=======
+## Run the application:
+    ```
+    python app.py
+    
+## Contributing
+If you'd like to contribute or have suggestions, please open an issue or submit a pull request.
+
+## License
+This project is licensed under the **MIT License**.
+
+>>>>>>> 385ab33dedfc7cf162ec743eaf9c9bb05e0e674f
 
