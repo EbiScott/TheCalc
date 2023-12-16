@@ -49,19 +49,19 @@ TheCalc is a versatile GUI application built using the guizero library in Python
 
 1. Clone the repository:
 
-   ```bash
+   ```
    git clone https://github.com/yourusername/omnicalc.git
 
    cd omnicalc
 
 ## Install dependencies:
 
-    ```bash
+    ```
     pip install guizero
 
 
 ## Run the application:
-    ```bash
+    ```
     python app.py
     
 ## Contributing
