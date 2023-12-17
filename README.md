@@ -57,6 +57,8 @@ TheCalc is a versatile GUI application built using the guizero library in Python
 ## Install dependencies:
 
     pip install guizero
+    pip install pint
+    pip install forex-python
 
 ## Run the application:
 
