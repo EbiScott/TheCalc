@@ -50,7 +50,7 @@ TheCalc is a versatile GUI application built using the guizero library in Python
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/omnicalc.git
+   git clone https://github.com/yourusername/TheCalc.git
 
    cd TheCalc
 

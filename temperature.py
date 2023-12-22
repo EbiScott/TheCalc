@@ -8,9 +8,9 @@ print("""Your available options are:
                                     2. Kelvin
                                     3.Farenheit
                                     4.Rankine""")
-convert_from = input(""" Write your initial temp. scale: """).lower()
+convert_from = input("""Enter your initial temp. scale: """).lower()
 
-convert_to = input(" Write theCe temp. scale to convert to:").lower()
+convert_to = input(" Enter the temp. scale to convert to:").lower()
 
 try:
       temperature = float(input("Enter your temperature: "))

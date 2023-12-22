@@ -1,5 +1,5 @@
 #Python program to calculate
-#will input into the GUI laterrrr
+#will input into the GUI later
 #Addition
 def add(x,y):
     return x+y
