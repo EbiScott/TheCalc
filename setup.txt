@@ -1,0 +1,3 @@
+pip install guizero
+pip install pint 
+pip install forex_python
